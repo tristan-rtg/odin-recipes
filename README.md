@@ -1,0 +1,1 @@
+This is the first project within the "The Odin Project" curriculum. Goal of the project was to create a simle webpage with a list of recipes. Each line links to another .html document with the recipe inside. I made a vegan version of it.
