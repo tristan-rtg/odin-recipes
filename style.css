@@ -58,6 +58,8 @@ div {
 }
 .menue {
     list-style: none;
+    line-height: 1.7;
+    text-align: center;
 }
 .ingredients {
     background-color: aliceblue;
